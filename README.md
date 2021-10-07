@@ -271,7 +271,6 @@ gmx grompp -f md.mdp -c npt.gro -r npt.gro -t npt.cpt -p topol.top -o md.tpr
 gmx mdrun -v -deffnm md 
 ```
 
-Detalhes:
 * **-v**: *verbose mode*, escreve na tela os passos da minimização;
 * **-s**: arquivo pré compilado com informações de coordenadas, topologia e parâmetros da simulação. Esse arquivo é adquirido na etapa anterior com o **grompp**;
 * **-deffnm**: coloca os nomes dos arquivos de saída com o nomes indicado.
