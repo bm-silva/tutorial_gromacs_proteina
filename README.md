@@ -8,7 +8,7 @@ Este tutorial se baseou em 2 práticas, já aplicadas:
 * http://www.mdtutorials.com/gmx/lysozyme/
 * Aula prática do Minicurso de Dinâmica Molecular Básica I Curso de Verão em Bioinformática ministrado pela Dra. Deborah Antunes.
 
-Como o modelo a ser utilzizado, é uma estrutura do PDB, é possível que ele possa conter átomos de solventes, ligantes ou outras moléculas. No caso do PDB 1AKI, se encontra moléculas de água. Tenha em mente que é recomendado retirar todos os átomos relacionados ao solvente. Você pode utilziar programas como o Chimera e o PyMOL para realizar esta tarefa!
+Como o modelo a ser utilzizado, é uma estrutura do PDB, é possível que ele possa conter átomos de solventes, ligantes ou outras moléculas. No caso do PDB 1AKI, se encontra moléculas de água. Tenha em mente que é recomendado retirar todos os átomos relacionados ao solvente. Você pode utilizar programas como o Chimera e o PyMOL para realizar esta tarefa!
 
 ## Preparação
 
